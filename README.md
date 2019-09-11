@@ -9,7 +9,7 @@
   <li>Drag your selected term to the "Claimed" column.</li>
   <li>If necessary, research your selected term. Note any sources you consult.</li>
   <li>Write a definition for your selected term.</li>
-  <li>Format the definition you have written according to the "template.html" file within the "Submitted_Glossary_Definitions" branch. If useful, reference the example file, titled "EXAMPLE-markup.html" in the same branch.</li>
+  <li>Format the definition you have written according to the "template.xhtml" file within the "Submitted_Glossary_Definitions" branch. If useful, reference the example file, titled "EXAMPLE-markup.html" in the same branch.</li>
   <li>Save your formatted definition as an html file with your selected term as the file name, including no spaces or special characters.</li>
   <li>Navigate to the "&lt;&gt;Code" tab.</li>
   <li>Navigate to the Github Branch entitled "Submitted_Glossary_Definitions", the "PB-203-0_Spring19_GlossaryTerms" project.</li>
