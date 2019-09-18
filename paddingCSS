@@ -1,0 +1,16 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<body>
+	<section id="Glossarytermnospacesorformatting">
+		<h2>Padding</h2>
+		<p>In CSS, padding is the space between the element and any borders around it. You can specify padding for the top, right, bottom, 
+    and left of the element individually, using three values (top, right & left, bottom), two values (top & bottom, right & left),
+    or one value for all four sides. 
+			<cite>Definition adapted from <a href="https://www.w3schools.com/css/css_padding.asp">“CSS Padding.” CSS Padding, W3Schools, www.w3schools.com/css/css_padding.asp.</a> by <span class="contributor">Olivia Carey</span>
+				</cite>
+				</p>
+</section>
+</body> 
