@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<body style=padding:60px>
+	<section id="Transparency (of graphics)">
+		<h2 class="glossaryterm">Transparency (of graphics)</h2>
+		<p> This refers to an image or graphic that is clear and can take the effect of any images behind it. At its simplest there is "full transparency" i.e. something that is completely invisible. Only part of a graphic should be fully transparent, or there would be nothing to see. More complex is "partial transparency" or "translucency" where the effect is achieved that a graphic is partially transparent in the same way as colored glass.
+These are some <a href=“https://www.computerhope.com/issues/ch000979.htm”>steps for making an image transparent.</a>
+            <br>
+			<cite> Definition adapted from 
+				<a href="https://www.computerhope.com/jargon/t/transpar.htm">computerhope.com, 2019</a> and 
+<a href=“https://en.wikipedia.org/wiki/Transparency_(graphic)”>wikipedia.com, 2019</a> by 
+				<span class="contributor">Tatiana Guel</span>
+				</cite>
+				</p>
+    </section>
+</body>
