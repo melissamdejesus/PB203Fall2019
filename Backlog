@@ -1,0 +1,14 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<body>
+	<section id="Backlog">
+		<h2>Backlog</h2>
+		<p>A prioritized list of features or user stories that need to be added to a program.
+			<cite>Definition adapted from <a href="http://www.businessdictionary.com/">Source citation, linked if online.</a> by <span class="Business Dictionary">Tom Garback</span>
+				</cite>
+				</p>
+</section>
+</body>
