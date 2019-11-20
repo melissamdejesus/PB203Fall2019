@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<body style=padding:60px>
+	<section id="Version Control">
+		<h2 class="glossaryterm">Version Control</h2>
+		<p>a system that records changes to a file or set of files over time so that you can recall specific versions later. You can track revisions of your project’s assets. This includes code, graphics (2D/3D for game and product development), movies, audio, analog and digital semiconductor designs, or any other type of digital asset. It is also sometimes referred to as revision control.
+            <br>
+			<cite> Definition adapted from 
+				<a href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control">git-scm.com, 2014</a> and 
+<a href=”https://www.perforce.com/blog/vcs/what-is-version-control”>perforce.com</a> by 
+				<span class="contributor">Tatiana Guel</span>
+				</cite>
+				</p>
+    </section>
+</body>
