@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<body style=padding:60px>
+	<section id="Given-When-Then">
+		<h2 class="glossaryterm">Given-When-Then</h2>
+		<p>a structured format for expressing scenarios with example data, including pre- and post-conditions. It's an approach developed by Daniel Terhorst-North and Chris Matts as part of Behavior-Driven Development (BDD).
+
+The essential idea can be broken down like so:
+(Given) some context
+(When) some action is carried out
+(Then) a particular set of observable consequences should obtain
+
+An example:
+Given my bank account is in credit, and I made no withdrawals recently,
+When I attempt to withdraw an amount less than my card’s limit,
+Then the withdrawal should complete without errors or warnings
+
+The given part describes the state of the world before you begin the behavior you're specifying in this scenario. You can think of it as the pre-conditions to the test.
+The when section is that behavior that you're specifying.
+Finally the then section describes the changes you expect due to the specified behavior.
+            <br>
+			<cite> Definition adapted from 
+				<a href="https://martinfowler.com/bliki/GivenWhenThen.html">martinfowler.com, 2013</a>,
+<a href=”https://www.agilealliance.org/glossary/gwt/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'given*20when*20then))~searchTerm~'~sort~false~sortDirection~'asc~page~1)”>agilealliance.com</a>, and <a href="https://www.ebgconsulting.com/blog/using-given-when-then-to-discover-and-validate-requirements-2/">ebgconsulting.com, 2012</a> by 
+				<span class="contributor">Tatiana Guel</span>
+				</cite>
+				</p>
+    </section>
+</body>
